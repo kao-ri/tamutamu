@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@tamutamu.vccw.test:
+  ssh: vagrant:tamutamu.vccw.test:/var/www/html
