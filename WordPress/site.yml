@@ -47,7 +47,7 @@ admin_email: vccw@example.com
 #
 # WordPress Database
 #
-db_prefix: wp_jua_
+db_prefix: wp_tamu_
 db_host: localhost
 db_name: wordpress
 db_user: wordpress
